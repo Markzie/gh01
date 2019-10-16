@@ -1,0 +1,10 @@
+to jest test githuba
+i co z tego jak to zapisać
+
+co to znaczy stage changes
+czy save ma w tej sytuacji znaczenie ?
+a jeżeli tutaj prowadze edycje to ?
+czy stan zapisane lub nie jest sygnalizowany ?
+
+jak utworzyć branch ??
+a to jest nowa linia ...
